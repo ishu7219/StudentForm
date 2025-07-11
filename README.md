@@ -34,13 +34,6 @@ The form allows users to **save**, **update**, and **reset** student records usi
 
 ---
 
-## 🔗 Live Demo (Optional)
-
-> 🟡 Note: Due to browser CORS policy, JSONPowerDB API will work **only on a hosted domain** (like Netlify), not on `localhost`.
-
-[🔗 View Live Form on Netlify](https://your-netlify-link.netlify.app) <!-- Replace with your actual link -->
-
----
 
 ## 📂 Project Structure
 
