@@ -24,6 +24,16 @@ The form allows users to **save**, **update**, and **reset** student records usi
 
 ---
 
+## 🖼️ Screenshots
+
+### 🎯 Student Enrollment Form (UI)
+![Form Screenshot](./Screenshot%20(314).png)
+
+### 🗃️ JSONPowerDB Data
+![JPDB Data Screenshot](./Screenshot%20(315).png)
+
+---
+
 ## 🔗 Live Demo (Optional)
 
 > 🟡 Note: Due to browser CORS policy, JSONPowerDB API will work **only on a hosted domain** (like Netlify), not on `localhost`.
