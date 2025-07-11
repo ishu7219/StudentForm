@@ -34,6 +34,13 @@ The form allows users to **save**, **update**, and **reset** student records usi
 
 ## 📂 Project Structure
 
+```
+├── index.html # Frontend Form UI
+├── index.js # JavaScript logic for Save, Update, and Resetc
+├── README.md # This file
+├── assets/ # Optional: images or styles
+
+```
 
 ---
 
