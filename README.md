@@ -62,7 +62,7 @@ The form allows users to **save**, **update**, and **reset** student records usi
 
 ## 📧 Author
 
-**👤 Ishwari Patil (Tanul)**  
+**👤 Ishwari Patil **  
 BE Computer Engineering | Passionate Web Developer  
 📧 Contact: [ishwari680@example.com] 
 
